@@ -13,6 +13,8 @@ class _PopulatePointScreenState extends State<PopulatePointScreen> {
   final Size originalSize = const Size(1920, 1020);
   final List<Map<String, int>> points = [
     {"x": 951, "y": 569},
+    {"x": 511, "y": 169},
+    {"x": 821, "y": 269},
   ];
   List<Offset> offsets = [];
 
