@@ -74,7 +74,7 @@ Place image/pictogram files in assets/images/.
 Ensure that pubspec.yaml includes them under the flutter → assets section so they’re bundled.
 
 ## Project Structure
-
+```
 splat_pictogram_prep/
 ├── android/              # Native Android project
 ├── ios/                  # Native iOS project
@@ -86,6 +86,7 @@ splat_pictogram_prep/
 ├── analysis_options.yaml # Linting and static analysis
 ├── README.md             # Project overview (this file)
 └── .gitignore            # Common ignore rules
+```
 
 ## Contributing
 Contributions are welcome! To contribute:
